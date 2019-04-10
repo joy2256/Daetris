@@ -1,0 +1,18 @@
+상단
+
+COINS_1~6
+MESSAGE_TOP
+COIN
+BACKGROUND
+
+하단
+
+MESSAGE_BOTTOM
+BOX
+COIN
+BOX_BOTTOM
+TABLE
+BACKGROUND
+
+카드를 태그하면 코인이 위에서 아래로 이동하며
+저금통으로 들어가는 방식
